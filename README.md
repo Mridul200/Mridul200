@@ -4,7 +4,7 @@
 
 ### 🚀 AI • Full-Stack • Blockchain Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%F0%9F%A4%96;Exploring+LLMs+%26+Machine+Learning+%F0%9F%A7%A0;Full-Stack+%7C+Blockchain+%7C+Solidity+%F0%9F%94%97;Turning+Ideas+into+Real+Products+%F0%9F%9A%80" alt="Building AI-powered products, exploring large language models and machine learning, developing full-stack and blockchain applications, and turning ideas into real products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Building+AI-powered+products+%F0%9F%A4%96;Exploring+LLMs+%26+Machine+Learning+%F0%9F%A7%A0;Building+Full-Stack+Applications+%F0%9F%92%BB;Exploring+Blockchain+%26+Smart+Contracts+%F0%9F%94%97;Turning+Ideas+into+Real+Products+%F0%9F%9A%80" alt="Building AI-powered products, exploring large language models and machine learning, developing full-stack applications, exploring blockchain and smart contracts, and turning ideas into real products" />
 
 <br/>
 
@@ -29,198 +29,179 @@
 
 <br/><br/>
 
-**💡 Learn • Build • Experiment • Ship**
+<b>💡 Learn • Build • Experiment • Ship</b>
 
 </div>
 
-<br>
+---
 
-# Mridul Mani Tripathi
+## 👨‍💻 About Me
 
-**B.Tech CSE Student | Full-Stack Developer | AI & Product Builder**
+I'm a **B.Tech Computer Science & Engineering student** who enjoys turning ideas into practical software products.
 
-I am a Computer Science and Engineering student focused on building practical software products using modern web technologies and artificial intelligence.
+My current focus is on **Artificial Intelligence, Full-Stack Development, LLMs, and Blockchain**, with a strong interest in building real-world products rather than only tutorial projects.
 
-I enjoy turning ideas into functional applications, exploring AI-driven solutions, and learning through real-world projects, hackathons, and continuous experimentation.
+- 🤖 Exploring AI, LLMs, RAG, and practical AI applications
+- 💻 Building full-stack web applications and backend APIs
+- 🔗 Learning Solidity, smart contracts, and blockchain-based systems
+- 🚀 Building and experimenting with product ideas and startups
+- 🧠 Strengthening DSA, system design, databases, and software engineering fundamentals
+- 🏗️ Learning by building, shipping, breaking, debugging, and improving
 
 ---
 
-## About Me
-
-* Pursuing B.Tech in Computer Science and Engineering
-* Interested in Full-Stack Development, Artificial Intelligence, and Product Engineering
-* Building practical software products and AI-powered applications
-* Exploring startups, hackathons, and real-world problem solving
-* Currently strengthening my skills in backend development, system design, databases, and production deployment
-
----
-
-## Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
-
-`JavaScript` `TypeScript` `Python` `Java` `SQL`
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 ### Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+### Backend & Data
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-### Backend & Databases
-
-`Node.js` `Express.js` `PostgreSQL` `Supabase` `Firebase`
+### AI & Blockchain
+<p>
+<img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=google&logoColor=white" alt="Large Language Models" />
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+</p>
 
 ### Tools & Platforms
-
-`Git` `GitHub` `Docker` `Vercel` `Render`
-
-### AI & Computer Vision
-
-`MediaPipe` `Computer Vision` `AI Integration` `Pose Estimation`
-
----
-
-## Featured Projects
-
-### Form Flow
-
-An AI-powered rehabilitation platform designed to analyze exercise form and provide real-time feedback using computer vision and pose estimation.
-
-**Tech:** React · MediaPipe · Supabase · Computer Vision
-
-[View Repository](https://github.com/Mridul200/form-flow)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+</p>
 
 ---
 
-### TaskForge API
+## 🚀 Featured Projects
 
-A backend project focused on designing and working with RESTful APIs and structured application services.
+### ⚖️ Nyastra AI
+**AI-powered legal research and assistance platform**
 
-**Tech:** Node.js · REST API · Backend Development
+A legal-tech product focused on helping advocates with case research, case matching, AI-assisted legal queries, and document workflows.
 
-[View Repository](https://github.com/Mridul200/TaskForge-API)
-
----
-
-### Nyastra AI
-
-An AI-focused application exploring practical applications of artificial intelligence in modern software products.
-
-**Tech:** AI · Full-Stack Development
+**Focus:** AI · Legal Tech · Full-Stack Development · RAG · Product Engineering
 
 [View Repository](https://github.com/Mridul200/Nyastra-AI)
 
 ---
 
-## Currently Learning
+### 🏃 Form Flow
+**Computer-vision based rehabilitation platform**
 
-* Advanced JavaScript and TypeScript
-* React and modern frontend architecture
-* Node.js and backend system design
-* Database design and API development
-* AI integration and computer vision
-* Docker and production deployment
-* Software architecture and scalable application development
+An application exploring real-time exercise form analysis using pose estimation and computer vision.
 
----
+**Focus:** React · MediaPipe · Computer Vision · Supabase · AI
 
-## Areas of Interest
-
-**Artificial Intelligence · Full-Stack Development · Computer Vision · Backend Engineering · Product Development · Startups**
+[View Repository](https://github.com/Mridul200/form-flow)
 
 ---
 
-## My Approach
+### 🔧 TaskForge API
+**Backend API development project**
 
-I believe in learning by building.
+A backend-focused project for learning and implementing REST API architecture, application services, and server-side development.
 
-Instead of limiting myself to tutorials and theoretical projects, I try to identify real problems, build working solutions, deploy them, and improve them through iteration and feedback.
+**Focus:** Node.js · REST APIs · Backend Development
 
-My long-term goal is to become a strong software engineer and build technology-driven products that solve meaningful real-world problems.
+[View Repository](https://github.com/Mridul200/TaskForge-API)
 
 ---
 
-## Connect With Me
+## 📚 Currently Learning
 
-**LinkedIn:** [linkedin.com/in/mridulmanitripathi](https://www.linkedin.com/in/mridulmanitripathi)
+- 🧠 Machine Learning and Deep Learning fundamentals
+- 🤖 LLM engineering and AI application development
+- 🔎 RAG, embeddings, vector databases, and AI pipelines
+- 🔗 Solidity and smart contract development
+- 🏗️ Backend architecture and scalable APIs
+- 🗄️ Database design and system design
+- 🧩 Data Structures & Algorithms with Java
+- 🚀 Deployment, DevOps, and production-ready development
 
-**GitHub:** [github.com/Mridul200](https://github.com/Mridul200)
-
-**Email:** [mridulmani009@gmil.com](mailto:mridulmani009@gmil.com)             
 ---
+
+## 🎯 What I'm Working Toward
+
+Building the skills to go from:
+
+**Idea → Prototype → Product → Production → Startup**
+
+I want to combine software engineering, AI, and emerging technologies to build products that solve real problems.
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api?username=Mridul200&show_icons=true&theme=transparent&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api?username=Mridul200&show_icons=true&theme=default&hide_border=true"
-    />
-    <img
-      src="https://github-readme-stats-gules-chi-47.vercel.app/api?username=Mridul200&show_icons=true&theme=default&hide_border=true"
-      alt="Mridul's GitHub Stats"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=default&hide_border=true"
-    />
-    <img
-      src="https://github-readme-stats-gules-chi-47.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=default&hide_border=true"
-      alt="Top Languages"
-    />
-  </picture>
+  <img src="https://github-readme-stats-gules-chi-47.vercel.app/api?username=Mridul200&show_icons=true&theme=transparent&hide_border=true" alt="Mridul's GitHub statistics" />
+  <img src="https://github-readme-stats-gules-chi-47.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Mridul's most used programming languages" />
 </p>
----
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Mridul200&theme=transparent&hide_border=true"
-    alt="Mridul's GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Mridul200&theme=transparent&hide_border=true" alt="Mridul's GitHub contribution streak" />
 </p>
+
+---
+
 ## 🐍 Contribution Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake.svg"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake.svg" alt="GitHub contribution activity represented as a snake animation" />
+  </picture>
+</p>
+
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mridulmanitripathi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-
   <a href="https://github.com/Mridul200">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-
-  <a href="mailto:mridulmani009@gmil.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mridulmani009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mridul" />
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+
+**💡 Learn • Build • Experiment • Ship**
+
+</div>
