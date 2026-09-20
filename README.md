@@ -108,5 +108,23 @@ My long-term goal is to become a strong software engineer and build technology-d
 
 **GitHub:** [github.com/Mridul200](https://github.com/Mridul200)
 
-**Email:** [mridulmani009@gmil.com](mailto:mridulmani009@gmil.com)
+**Email:** [mridulmani009@gmil.com](mailto:mridulmani009@gmil.com)             
 
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Mridul200/Mridul200/output/github-snake.svg"
+  />
+</picture>
