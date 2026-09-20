@@ -1,18 +1,37 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/main/dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/main/light.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Mridul200/Mridul200/main/light.svg"
-    alt="Mridul Mani Tripathi GitHub Profile Banner"
-    width="100%"
-  />
-</picture>
+<div align="center">
+
+# 👋 Hi, I'm Mridul Mani Tripathi
+
+### 🚀 AI • Full-Stack • Blockchain Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%F0%9F%A4%96;Exploring+LLMs+%26+Machine+Learning+%F0%9F%A7%A0;Full-Stack+%7C+Blockchain+%7C+Solidity+%F0%9F%94%97;Turning+Ideas+into+Real+Products+%F0%9F%9A%80" alt="Building AI-powered products, exploring large language models and machine learning, developing full-stack and blockchain applications, and turning ideas into real products" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=google&logoColor=white" alt="Large Language Models" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum blockchain" />
+<img src="https://img.shields.io/badge/Web3-FF6B35?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3 development" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+
+<br/><br/>
+
+**💡 Learn • Build • Experiment • Ship**
+
+</div>
 
 <br>
 
