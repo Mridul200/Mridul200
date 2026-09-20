@@ -1,3 +1,21 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/main/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mridul200/Mridul200/main/light.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Mridul200/Mridul200/main/light.svg"
+    alt="Mridul Mani Tripathi GitHub Profile Banner"
+    width="100%"
+  />
+</picture>
+
+<br>
+
 # Mridul Mani Tripathi
 
 **B.Tech CSE Student | Full-Stack Developer | AI & Product Builder**
