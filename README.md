@@ -111,20 +111,22 @@ My long-term goal is to become a strong software engineer and build technology-d
 **Email:** [mridulmani009@gmil.com](mailto:mridulmani009@gmil.com)             
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-gjjp5erjj-mridul200s-projects.vercel.app/api?username=Mridul200&show_icons=true&theme=transparent&hide_border=true"
+      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api?username=Mridul200&show_icons=true&theme=transparent&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-gjjp5erjj-mridul200s-projects.vercel.app/api?username=Mridul200&show_icons=true&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api?username=Mridul200&show_icons=true&theme=default&hide_border=true"
     />
     <img
-      src="https://github-readme-stats-gjjp5erjj-mridul200s-projects.vercel.app/api?username=Mridul200&show_icons=true&theme=default&hide_border=true"
+      src="https://github-readme-stats-gules-chi-47.vercel.app/api?username=Mridul200&show_icons=true&theme=default&hide_border=true"
       alt="Mridul's GitHub Stats"
     />
   </picture>
@@ -132,14 +134,14 @@ My long-term goal is to become a strong software engineer and build technology-d
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-gjjp5erjj-mridul200s-projects.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=transparent&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-gjjp5erjj-mridul200s-projects.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-gules-chi-47.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=default&hide_border=true"
     />
     <img
-      src="https://github-readme-stats-gjjp5erjj-mridul200s-projects.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=default&hide_border=true"
+      src="https://github-readme-stats-gules-chi-47.vercel.app/api/top-langs/?username=Mridul200&layout=compact&langs_count=8&theme=default&hide_border=true"
       alt="Top Languages"
     />
   </picture>
