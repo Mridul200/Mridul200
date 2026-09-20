@@ -146,6 +146,14 @@ My long-term goal is to become a strong software engineer and build technology-d
   </picture>
 </p>
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Mridul200&theme=transparent&hide_border=true"
+    alt="Mridul's GitHub Streak"
+  />
+</p>
 ## 🐍 Contribution Snake
 
 <picture>
