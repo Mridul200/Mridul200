@@ -110,7 +110,6 @@ My long-term goal is to become a strong software engineer and build technology-d
 
 **Email:** [mridulmani009@gmil.com](mailto:mridulmani009@gmil.com)             
 ---
-
 ---
 
 ## 📊 GitHub Stats
@@ -147,7 +146,6 @@ My long-term goal is to become a strong software engineer and build technology-d
   </picture>
 </p>
 ---
-
 ## 🐍 Contribution Snake
 
 <picture>
